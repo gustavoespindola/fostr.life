@@ -410,7 +410,7 @@ ul, li{
 	}
 
 	.hero{
-		background-image: url('https://images.unsplash.com/reserve/91JuTaUSKaMh2yjB1C4A_IMG_9284.jpg?dpr=2&auto=format&fit=crop&w=640&h=480&q=50&cs=tinysrgb&crop=');
+		background-image: url('/images/hero__welcome.jpg');
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
