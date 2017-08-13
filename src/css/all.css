@@ -688,8 +688,19 @@ ul.taxonomy li, ul.meta li {
 		body{
 			padding-top: 4rem;
 		}
+		.hero{
+			border: 0;
+			margin: 0;
+			border-radius: 0;
+		}
 		.welcome{
 			max-width: 300px;
+			padding: 2rem;
+		}
+
+		.pricingcard{
+			margin: 0 auto 1rem;
+
 		}
 
 		.button.cta.mobile{
