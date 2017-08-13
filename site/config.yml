@@ -1,4 +1,6 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "listaLists"
+title: "Fostr.life"
 metaDataFormat: "yaml"
+params:
+  Subtitle: "Renta mi cuarto mientras estoy de viaje"
