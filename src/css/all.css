@@ -77,6 +77,9 @@ ul, li{
 	max-width: 60rem;
 	margin: 0 auto;
 	text-align: center;
+	a{
+		display: inline-block;
+	}
 }
 
 .footer {
